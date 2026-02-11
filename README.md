@@ -1,0 +1,2 @@
+# agregator
+stat platform sync
